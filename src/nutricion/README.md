@@ -2,7 +2,7 @@
 
 ## 📋 Documentación
 - [Backlog](./docs/backlog.md)
-- [Informe](./docs/informe.md)
+- [Informe](./Informe/Nutrición%20y%20Perfiles%20Alimentarios%20(2).docx)
 - [Wireframes](./docs/wireframes/)
 
 ## 👨‍💻 Integrantes del Equipo
