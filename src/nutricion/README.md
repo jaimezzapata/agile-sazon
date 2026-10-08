@@ -12,8 +12,15 @@
 - **Experiencia:** Tecnico laboral en desarrollo de software, participante de NASA Space Apps Challenge y miembro de garabato(Semillero de ciberseguridad EAFIT)
 - **Capacidades:** Manejo avanzado de terminal UNIX, concimientos basicos en programacion, Pentesting Web, AppSec, Trabajo en equipo, Ingles B1
 - **Contacto / Redes:** Numero: 3166723706 Correo:wurs784@gmail.com
+1.jose david correa 
+### [José Manuel Botero Giraldo] - [Develop]
+- **Experiencia:** Estudiante de desarrollo de software cesde, experiencia de más 3 años en manejo de sap y aplicativos de consulta sql y no sql para la respuesta de PQRS 
+- **Capacidades:** Trabajo bajo preción, orientación a logro, mejora continua y trabajo en equipo.
+- **Contacto / Redes:** Correo: Josembotero17@gmail.com
+                        Whatsapp: 3004474833
+3.jose david valencia 
 2.jose botero 
-### [Jose David Valencia Martinez] 
+### [Jose David Valencia Martinez]- [ lider ]
 - **Experiencia:** Desarrollo de proyectos académicos en programación, desarrollo web y gestión de proyectos de software. Experiencia trabajando con JavaScript, Java, Git y GitHub.
 
 - **Capacidades:** Trabajo en equipo, resolución de problemas, aprendizaje rápido, programación, manejo de Git/GitHub, desarrollo de aplicaciones y adaptación a nuevas tecnologías.
