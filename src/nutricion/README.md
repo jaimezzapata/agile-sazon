@@ -7,6 +7,11 @@
 
 ## 👨‍💻 Integrantes del Equipo
 
+
+### [Jose David Correa] - [Desarrollador]
+- **Experiencia:** Tecnico laboral en desarrollo de software, participante de NASA Space Apps Challenge y miembro de garabato(Semillero de ciberseguridad EAFIT)
+- **Capacidades:** Manejo avanzado de terminal UNIX, concimientos basicos en programacion, Pentesting Web, AppSec, Trabajo en equipo, Ingles B1
+- **Contacto / Redes:** Numero: 3166723706 Correo:wurs784@gmail.com
 1.jose david correa 
 ### [José Manuel Botero Giraldo] - [Develop]
 - **Experiencia:** Estudiante de desarrollo de software cesde, experiencia de más 3 años en manejo de sap y aplicativos de consulta sql y no sql para la respuesta de PQRS 
