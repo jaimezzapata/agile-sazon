@@ -1,4 +1,21 @@
+# Módulo: [Comunidad y Valoraciones]
+
+## 📋 Documentación
+- [Backlog](./docs/backlog.md)
+- [Informe](./docs/informe.md)
+- [Wireframes](./docs/wireframes/)
+
+## 👨‍💻 Integrantes del Equipo
+
+### [Johann Felipe Hincapié Usuga] - [Lider]
+- **Experiencia: 3 Meses de formación** ...
+- **Capacidades: Trabajo en equipo** ...
+- **Contacto: 312 730 9806 / Redes:** ...
 ### [Juan Felipe Isaza Vasquez] - [Rol]
 - **Experiencia:3 meses 
 - **Capacidades:desarrollador  
 - **Contacto / Redes: 3208801757 / isazavasquez9@gmail.com
+### [Jorge Andres Avila Rodriguez] - [Desarrollador]
+- **Experiencia:1 año
+- **Capacidades: FullStack 
+- **Contacto / Redes: 3005639018 / jorgeandresavilarodriguez@gmail.com
